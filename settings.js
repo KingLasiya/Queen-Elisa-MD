@@ -32,25 +32,25 @@ global.APIKeys = {
 }
 
 //other
-global.owner = ['94715166712'] // Owner number , (අයිතිකරුගේ නම්බර් එක )
-global.pemilik = ['94715166712'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
-global.premium = ['94715166712'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
-global.pengguna = 'Dark Maker' // Your name ඔබේ නම 
-global.botnma = '💃 𝐐𝐮𝐞𝐞𝐧 𝐄𝐥𝐢𝐬𝐚 𝐁𝐨𝐭 💃' // Your bot name , ඔබගෙ බොට්ගේ නම 
-global.ownernma = '𝓓𝓪𝓻𝓴 𝓜𝓪𝓴𝓮𝓻' //ownernama,ownername
-global.packname = 'Queen Elisa Sticker' // Sticker package name 
-global.author = 'Dark Maker' // Sticker Autor name 
+global.owner = ['94771481543'] // Owner number , (අයිතිකරුගේ නම්බර් එක )
+global.pemilik = ['94771481543'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
+global.premium = ['94771481543'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
+global.pengguna = '𝙺𝙸𝙽𝙶 𝙻𝙰𝚂𝙸𝚈𝙰' // Your name ඔබේ නම 
+global.botnma = '💃 𝐊𝐈𝐍𝐆 𝐋𝐀𝐒𝐈𝐘𝐀 💃' // Your bot name , ඔබගෙ බොට්ගේ නම 
+global.ownernma = '𝗟𝗔𝗦𝗜𝗬𝗔' //ownernama,ownername
+global.packname = '𝙺𝙸𝙽𝙶 𝙻𝙰𝚂𝙸𝚈𝙰 Sticker' // Sticker package name 
+global.author = '𝙻𝙰𝚂𝙸𝚈𝙰' // Sticker Autor name 
 global.sessionName = 'session'
 global.prefa = ['#','!','/',''] 
 global.sp = '🔵'
 // Alive massage , ඔබේ බොගේ alive massage  එක මෙහි ඇති ` ` මෙම ලකුනු ඇතුලේ ඔබට අවශ්‍ය ඔනිම දෙයක් Type කරන්න.💃
 global.alivelogo = `https://telegra.ph/file/1a2dee71baa975091620d.jpg`
-global.alive =`Hello i am alive now
+global.alive =`🧜‍♀ බොටා ඔන්ලයින් ඔනෙ දෙයක් කරගන්න 🧜‍♀`
 
 Download song type .yt 
 Thanks fro using...`
 // Welcome massage  ඔබට කැමති නම් මෙයට ඔබෙ welcome massage  එක යොදන්න 
-global.welcome = `
+global.welcome = `සාදරයෙන් පිලිගන්නවා අපෙ Group එකට`
 🌀 Thanks Fro using sl zim bot
 ✾ Some bugs fixing
 😼♥️
@@ -58,9 +58,9 @@ global.welcome = `
 // වෙල්කම් එක යවන්න ඔනි නම් add කියලා දාන්න 
 global.sendwelcome = `add`
 // Good bye එක ඔනි නම් remove කියලා දාන්න
-global.sendgoodbye = `remove`
+global.sendgoodbye = `බායි බායි 😂`
 // Caption 
-global.cap = `© 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞𝐝 𝐁𝐲 𝐐𝐮𝐞𝐞𝐧 𝐄𝐥𝐢𝐬𝐚 𝐌𝐃`
+global.cap = `© 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞𝐝 𝐁𝐲 𝐋𝐀𝐒𝐈𝐘𝐀 𝐌𝐃`
 global.mess = {
     success: '✅ Done!',
     admin: 'you must be admin to use this cmd!',
